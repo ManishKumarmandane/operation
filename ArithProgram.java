@@ -39,7 +39,7 @@ public class ArithProgram
         System.out.println("git5");
         System.out.println("git1");
         System.out.println("modif");
-        System.out.println("a");
+        System.out.println("Haridham");
         System.out.println("--y="+y);
 
 
