@@ -36,7 +36,8 @@ public class ArithProgram
         y--;
         System.out.println("y--="+y);
         --y;
-        System.out.println("git");
+        System.out.println("git5");
+        System.out.println("git1");
         System.out.println("--y="+y);
 
 
